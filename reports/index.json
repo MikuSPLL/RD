@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260218-201350-2svy",
+    "title": "Luke Dragonrider",
+    "commanders": [
+      "Luke Dragonrider"
+    ],
+    "dateStart": "2026-02-18T19:13:50.000Z",
+    "dateEnd": "2026-02-18T20:55:07.000Z",
+    "dateLabel": "18.02.2026, 20:13:50 - 18.02.2026, 21:55:07",
+    "url": "https://MikuSPLL.github.io/RD/?report=20260218-201350-2svy",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 17,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260217-220728-3kpn",
     "title": "Samôu",
     "commanders": [
