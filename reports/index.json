@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260222-202043-j5ba",
+    "title": "Mr Bobbels",
+    "commanders": [
+      "Mr Bobbels"
+    ],
+    "dateStart": "2026-02-22T19:20:43.000Z",
+    "dateEnd": "2026-02-22T19:55:17.000Z",
+    "dateLabel": "22.02.2026, 20:20:43 - 22.02.2026, 20:55:17",
+    "url": "https://MikuSPLL.github.io/RD/?report=20260222-202043-j5ba",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 39
+    }
+  },
+  {
     "id": "20260218-201350-2svy",
     "title": "Luke Dragonrider",
     "commanders": [
