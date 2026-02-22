@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260222-211615-qa00",
+    "title": "Mr Bobbels",
+    "commanders": [
+      "Mr Bobbels"
+    ],
+    "dateStart": "2026-02-22T20:16:15.000Z",
+    "dateEnd": "2026-02-22T20:57:13.000Z",
+    "dateLabel": "22.02.2026, 21:16:15 - 22.02.2026, 21:57:13",
+    "url": "https://MikuSPLL.github.io/RD/?report=20260222-211615-qa00",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 15,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 24
+    }
+  },
+  {
     "id": "20260222-211615-aqr0",
     "title": "Mr Bobbels",
     "commanders": [
