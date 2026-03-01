@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260301-195250-dnx1",
+    "title": "Its Me Charl",
+    "commanders": [
+      "Its Me Charl"
+    ],
+    "dateStart": "2026-03-01T18:52:50.000Z",
+    "dateEnd": "2026-03-01T19:49:48.000Z",
+    "dateLabel": "1.03.2026, 19:52:50 - 1.03.2026, 20:49:48",
+    "url": "https://MikuSPLL.github.io/RD/?report=20260301-195250-dnx1",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 21,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260222-211615-qa00",
     "title": "Mr Bobbels",
     "commanders": [
