@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260301-210813-jcjr",
+    "title": "Its Me Charl",
+    "commanders": [
+      "Its Me Charl"
+    ],
+    "dateStart": "2026-03-01T20:08:13.000Z",
+    "dateEnd": "2026-03-01T20:57:50.000Z",
+    "dateLabel": "1.03.2026, 21:08:13 - 1.03.2026, 21:57:50",
+    "url": "https://MikuSPLL.github.io/RD/?report=20260301-210813-jcjr",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 16,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260301-195250-dnx1",
     "title": "Its Me Charl",
     "commanders": [
