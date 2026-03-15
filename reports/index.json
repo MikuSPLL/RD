@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260315-201805-k7tj",
+      "title": "Ijmpo, Its Me Charl",
+      "commanders": [
+        "Ijmpo",
+        "Its Me Charl"
+      ],
+      "dateStart": "2026-03-15T19:18:05.000Z",
+      "dateEnd": "2026-03-15T21:01:45.000Z",
+      "dateLabel": "15.03.2026, 20:18:05 - 15.03.2026, 22:01:45",
+      "url": "https://MikuSPLL.github.io/RD/?report=20260315-201805-k7tj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260311-210749-dbxt",
       "title": "Mr Bobbels",
       "commanders": [
